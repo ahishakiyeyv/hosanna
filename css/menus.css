@@ -1,0 +1,50 @@
+/*=====================================debut du menu=====================================*/
+body{
+    padding:0;
+    margin:0;
+}
+nav{
+    box-sizing: border-box;
+    height:100px;
+    width:auto;
+    background:rgb(30, 30, 32);
+    display:flex;
+    justify-content: space-around;
+    padding-top: 5px;
+
+}
+.logo_img{
+    height:80px;
+    width:80px;
+    border-radius: 20px;
+}
+.ul{
+    display:flex;
+    flex-direction: row;
+}
+.li{
+    margin-left:20px;
+    list-style-type: none;
+}
+.link{
+    text-decoration: none;
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:ivory;
+}
+.link:hover{
+    color:darkorange;
+}
+.linke{
+    border:1px solid rgb(1,1,14);
+    text-decoration: none;
+    padding:10px;
+    font-family: arial;
+    color:ivory;
+    background: rgb(1,1,14);
+}
+.linke:hover{
+    background:gray;
+    color:rgb(1,1,14);
+    transition:2s;
+}

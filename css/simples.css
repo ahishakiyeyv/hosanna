@@ -1,0 +1,119 @@
+body{
+    background:linear-gradient(90deg,rgb(184, 178, 178),ivory);
+}
+/*====================================debut de la premiere section================================*/
+
+/* #section1{
+    display: flex;
+    justify-content: space-around;
+    margin-left:250px;
+    margin-top:50px;
+    width:900px;
+}
+.div1{
+    width:200px;
+    height:300px;
+    background:rgb(1,1,14);
+    box-sizing: border-box;
+}
+.h_cha{
+    font-family: Arial, Helvetica, sans-serif;
+    color:ivory;
+    padding-top:200px;
+    padding-left:20px;
+}
+.img_chambre{
+    width:600px;
+    height:300px;
+}
+.img_cha{
+    width:600px;
+    height:300px;
+} */
+.title{
+    font-family:calibri;
+    font-size:30px;
+    color:rgb(1,1,14);
+    text-align:center;
+    letter-spacing:8px;
+    text-decoration:underline;
+}
+/*==============================================debut de la deuxieme section===================*/
+.img_slidee{
+    box-sizing: border-box;
+    width:800px;
+    height:400px;
+    margin-left:300px;
+    margin-top:80px;
+    background-image:url("../images/6.jpg");
+    animation:5s infinite alternate slide;
+}
+@keyframes slide{
+    0%{
+        background-image:url("../images/2.jpg");
+    }
+    50%{
+        background-image:url("../images/9.jpg");
+    }
+    100%{
+        background-image:url("../images/13.jpg");
+    }
+}
+.div_img{
+    width:900px;
+    display:flex;
+    justify-content:space-between;
+    margin-left:250px;
+    margin-top:50px;
+}
+.img{
+    width:200px;
+    height:200px;
+}
+.div_txt{
+    display:flex;
+    justify-content:space-between;
+    width:800px;
+    margin-left:300px;
+    margin-top:100px;
+    margin-bottom:100px;
+}
+.ttle{
+    text-align:center;
+    font-family:calibri;
+    font-size:25px;
+    color:rgb(1,1,14);
+}
+.para{
+    font-family:calibri;
+    font-size:18px;
+    text-align:justify;
+}
+.para2{
+    font-family:calibri;
+    font-size:18px;
+    text-align:justify;
+    margin-top:100px;
+}
+.txt1{
+    width:400px;
+}
+.txt2{
+    border:1px solid black;
+    border-radius:5px;
+}
+.ttle1{
+    font-family:calibri;
+    font-size:25px;
+    text-align:center;
+    color:rgb(1,1,14);
+}
+.lii{
+    font-family:calibri;
+    font-size:18px;
+}
+.li{
+    list-style-type: none;
+    font-family:calibri;
+    font-size:18px;
+}

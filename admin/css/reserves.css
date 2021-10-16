@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(../images/resort.jpg);
+    background-position: center;
+    background-size: auto;
+}
+#form{
+    background-color: #000;
+    height:400px;
+    width:800px;
+    margin: auto;
+    margin-top: 100px;
+    opacity:0.7;
+}
+#first-group{
+    border:none;
+    width:400px;
+    margin-top: 38px;
+    position: absolute;
+}
+#content{
+    border: 1px solid #fff;
+    margin:10px;
+    margin-left: 8px;
+    padding:5px;
+}
+#content #input-group{
+    border:none;
+    outline:none;
+    background: transparent;
+    margin-left:8px;
+    width:300px;
+    color:#fff;
+}
+::placeholder{
+    color:#fff;
+}
+.fa{
+    display:inline-block;
+    color:red;
+    border-right:1px solid #fff;
+    padding:8px;
+    margin-left: 8px;
+}
+#second-group{
+    border:none;
+    width:400px;
+    margin-top: 55px;
+    margin-left:400px;
+}
+#submit-btn{
+    margin-top: 30px;
+    margin-left: 600px;
+    background: transparent;
+    color:#fff;
+    width:150px;
+    border:1px solid red;
+    outline:none;
+    padding:10px;
+    font-size: 20px;
+}
+#submit-btn:hover{
+    background:ivory;
+    color:black;
+    transition:0.5s;
+}
+/* body{
+    background: linear-gradient(60deg,rgb(218, 213, 213),ivory);
+}
+.h1title{
+    font-size:25px;
+    font-family:helvetica;
+    color:rgb(107, 102, 177);
+    text-align:center;
+    letter-spacing: 5px;
+    text-decoration: underline;
+}
+.contain{
+    display:flex;
+    justify-content: space-around;
+    width:900px;
+    margin-left:250px;
+}
+.cont_img img{
+    width:500px;
+    height:600px;
+    border-radius:10px;
+}
+
+table{
+    border:1px solid gray;
+    border-radius:10px;
+    background: rgb(163, 161, 161);
+    height:600px;
+    width:500px;
+}
+
+th{
+    font-family: arial;
+    font-size:14px;
+}
+.date1{
+    width:250px;
+    height:30px;
+    background:gray;
+}
+#nombre{
+    width:250px;
+    height:30px;
+
+}
+#submi{
+    height:30px;
+}
+#submi:hover{
+    background:rgb(80, 77, 77);
+} */

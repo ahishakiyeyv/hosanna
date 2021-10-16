@@ -1,0 +1,103 @@
+body{
+    background-image:url("../images/w.png");
+}
+/*====================================debut de la premiere section=================================*/
+.pvide{
+    margin:30px;
+    border:1px solid rgb(1, 1, 14);
+}
+#section0{
+    display:flex;
+    justify-content: space-around;
+    margin:10px;
+}
+.div2{
+    box-sizing: border-box;
+    width:200px;
+    height:350px;
+    background:rgb(1, 1, 14);
+}
+.div2 h1{
+    box-sizing: border-box;
+    color:ivory;
+    font-size:20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top:250px;
+    padding-left:20px;
+}
+.service{
+    box-sizing: border-box;
+    width:700px;
+    height:350px;
+}
+.img_service{
+    width:inherit;
+    height:inherit;
+}
+/*======================================debut de la deuxieme section==================================*/
+.div_box{
+    display:flex;
+    justify-content: space-around;
+    margin:10px;
+}
+.div_box1{
+    box-sizing: border-box;
+    height:700px;
+    width:300px;
+    border:1px solid rgb(1, 1, 14);
+}
+.div_box1 ul li{
+    line-height: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.div_box2{
+    box-sizing: border-box;
+    width:700px;
+    height:700px;
+}
+.img_div{
+    width:inherit;
+    height:inherit;
+}
+/* ===============================================debut du footer==================================*/
+.boxes{
+    display:flex;
+    justify-content: space-around;
+    margin:20px;
+}
+.adresse{
+    font-size:14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.lnk{
+    margin:10px;
+    text-decoration: none;
+}
+.tle{
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(1, 1, 14);
+    letter-spacing: 10px;
+
+}
+#input{
+    width:300px;
+    height:30px;
+}
+#inpt{
+    width:300px;
+    height:30px;
+    background:rgb(1, 1, 14);
+    color:ivory;
+    font-family: arial;
+}
+#inpt:hover{
+    transition:2s;
+    background:ivory;
+    color:rgb(1, 1, 14);
+}
+#p{
+    border:1px solid black;
+    width:1000px;
+    margin-left:200px;
+}

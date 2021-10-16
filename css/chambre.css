@@ -1,0 +1,152 @@
+body{
+    background-image: url("../images/b.png");
+    
+}
+/*====================================debut de la premiere section================================*/
+
+#section1{
+    display: flex;
+    justify-content: space-around;
+    margin:10px;
+}
+.div1{
+    width:200px;
+    height:300px;
+    background:rgb(1,1,14);
+    box-sizing: border-box;
+}
+.h_cha{
+    font-family: Arial, Helvetica, sans-serif;
+    color:ivory;
+    padding-top:200px;
+    padding-left:20px;
+}
+.img_chambre{
+    width:600px;
+    height:300px;
+}
+.img_cha{
+    width:600px;
+    height:300px;
+}
+
+/*======================================debut de la dexieme section==============================*/
+#section2{
+   width:900px;
+   margin-left: 300px;
+}
+.title0{
+    font-size:25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(1,1,14);
+    margin-left:250px;
+}
+.boxe{
+    display:flex;
+    justify-content:space-around;
+}
+.box1{
+    box-sizing: border-box;
+    width:200px;
+    height:200px;
+}
+.img_box{
+    width:inherit;
+    height:inherit;
+}
+.box2{
+    box-sizing: border-box;
+    width:400px;
+    height:250px;
+}
+.title2{
+    font-size:20px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center;
+}
+.p_box2{
+    font-size:15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p_box2,li{
+    font-size:15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p_under{
+    text-align:center;
+    font-size:15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box3{
+    box-sizing: border-box;
+    background:rgb(1,1,14);
+    width:200px;
+    height:200px;
+}
+.h3_tit{
+    color:ivory;
+    font-size:20px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center;  
+}
+.p_box3{
+    font-size:20px;
+    color:ivory;
+    text-align:center;
+}
+.more{
+    text-decoration:none;
+    font-size:15px;
+    font-family:Arial, Helvetica, sans-serif;
+    border:1px solid ivory;
+    padding:5px;
+    margin-left:50px;
+    color:ivory;
+}
+.more:hover{
+    transition:1s;
+    background:ivory;
+    color:rgb(1,1,14);
+}
+/* ===============================================debut du footer==================================*/
+.boxes{
+    display:flex;
+    justify-content: space-around;
+    margin:20px;
+}
+.adresse{
+    font-size:14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.lnk{
+    margin:10px;
+    text-decoration: none;
+}
+.tle{
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(1, 1, 14);
+    letter-spacing: 10px;
+
+}
+#input{
+    width:300px;
+    height:30px;
+}
+#inpt{
+    width:300px;
+    height:30px;
+    background:rgb(1, 1, 14);
+    color:ivory;
+    font-family: arial;
+}
+#inpt:hover{
+    transition:2s;
+    background:ivory;
+    color:rgb(1, 1, 14);
+}
+#p{
+    border:1px solid black;
+    width:1000px;
+    margin-left:200px;
+}

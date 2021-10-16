@@ -1,0 +1,179 @@
+body{
+    background-image:url("../images/b.png");
+}
+/*=====================================debut de la premiere section==========================*/
+#section3{
+    display:flex;
+    justify-content: space-around;
+    margin:10px;
+}
+.div_section3{
+    box-sizing: border-box;
+    background: rgb(1,1,14);
+    width:250px;
+    height:350px;
+}
+.div_section3 h1{
+    color:ivory;
+    font-size:18px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-left: 5px;
+    padding-top: 230px;
+}
+.div3{
+    box-sizing: border-box;
+    width:700px;
+    height:350px;
+}
+.img_div3{
+    width:inherit;
+    height:inherit;
+}
+.pvide{
+    border:1px solid rgb(1,1,14);
+    margin:20px;
+}
+/*=================================debut de la deuxieme section===========================*/
+#section4{
+    display:flex;
+    justify-content: space-around;
+    margin-bottom:30px;
+}
+.box11{
+    box-sizing: border-box;
+    border:1px solid rgb(1,1,14);
+    width:300px;
+    height:500px;
+}
+.box11 h2{
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+    color:rgb(1,1,14);
+}
+.box11 p{
+    text-align:justify;
+    font-size:15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding:5px;
+}
+.plan{
+    text-decoration: none;
+    border:1px solid rgb(1,1,14);
+    color:ivory;
+    background:rgb(1,1,14);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding:3px;
+    margin-left:10px;
+}
+.plan:hover{
+    color:rgb(1,1,14);
+    background:ivory;
+    transition:2s;
+}
+.box21{
+    box-sizing: border-box;
+    border:1px solid rgb(1,1,14);
+    width:300px;
+    height:500px;
+}
+.box21 h2{
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+    color:rgb(1,1,14);
+}
+.box21 p{
+    text-align:justify;
+    font-size:15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding:5px;
+}
+.demande{
+    text-decoration: none;
+    border:1px solid rgb(1,1,14);
+    color:ivory;
+    background:rgb(1,1,14);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding:3px;
+    margin-left:10px;
+}
+.demande:hover{
+    color:rgb(1,1,14);
+    background:ivory;
+    transition:2s;
+}
+.box3{
+    box-sizing: border-box;
+    border: 1px solid rgb(1,1,14);
+    width:300px;
+    height:500px;
+}
+.box3 h2{
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+    color: rgb(1,1,14);
+}
+.box3 p{
+    text-align:justify;
+    font-size:15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding:5px;
+}
+.break{
+    text-decoration: none;
+    color:rgb(1,1,14);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding:3px;
+    margin:10px;
+}
+.break:hover{
+    color:red;
+    transition:2s;
+}
+/* ===============================================debut du footer==================================*/
+.boxes{
+    display:flex;
+    justify-content: space-around;
+    margin:20px;
+}
+.adresse{
+    font-size:14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.lnk{
+    margin:10px;
+    text-decoration: none;
+}
+.tle{
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(1, 1, 14);
+    letter-spacing: 10px;
+
+}
+#input{
+    width:300px;
+    height:30px;
+}
+#inpt{
+    width:300px;
+    height:30px;
+    background:rgb(1, 1, 14);
+    color:ivory;
+    font-family: arial;
+}
+#inpt:hover{
+    transition:2s;
+    background:ivory;
+    color:rgb(1, 1, 14);
+}
+#p{
+    border:1px solid black;
+    width:1000px;
+    margin-left:200px;
+}
