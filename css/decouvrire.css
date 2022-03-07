@@ -1,9 +1,7 @@
-/*========================================debut de la section des photos====================*/
-/* .img_wrapper{
-    height:400px;
-    width:400px;
-    
-} */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
 body{
     background:linear-gradient(90deg,rgb(211, 207, 207),ivory);
 }
