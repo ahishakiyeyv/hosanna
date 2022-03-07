@@ -20,7 +20,6 @@ body{
     box-sizing: border-box;
 }
 .h_cha{
-    font-family: Arial, Helvetica, sans-serif;
     color:ivory;
     padding-top:200px;
     padding-left:20px;
@@ -41,7 +40,6 @@ body{
 }
 .title0{
     font-size:25px;
-    font-family: Arial, Helvetica, sans-serif;
     color:rgb(1,1,14);
     margin-left:250px;
 }
@@ -65,21 +63,17 @@ body{
 }
 .title2{
     font-size:20px;
-    font-family:Arial, Helvetica, sans-serif;
     text-align:center;
 }
 .p_box2{
     font-size:15px;
-    font-family: Arial, Helvetica, sans-serif;
 }
 .p_box2,li{
     font-size:15px;
-    font-family: Arial, Helvetica, sans-serif;
 }
 .p_under{
     text-align:center;
     font-size:15px;
-    font-family: Arial, Helvetica, sans-serif;
 }
 .box3{
     box-sizing: border-box;
@@ -90,7 +84,6 @@ body{
 .h3_tit{
     color:ivory;
     font-size:20px;
-    font-family:Arial, Helvetica, sans-serif;
     text-align:center;  
 }
 .p_box3{
@@ -101,7 +94,6 @@ body{
 .more{
     text-decoration:none;
     font-size:15px;
-    font-family:Arial, Helvetica, sans-serif;
     border:1px solid ivory;
     padding:5px;
     margin-left:50px;
@@ -120,7 +112,6 @@ body{
 }
 .adresse{
     font-size:14px;
-    font-family: Arial, Helvetica, sans-serif;
 }
 .lnk{
     margin:10px;
@@ -128,7 +119,6 @@ body{
 }
 .tle{
     font-size:18px;
-    font-family: Arial, Helvetica, sans-serif;
     color:rgb(1, 1, 14);
     letter-spacing: 10px;
 
@@ -142,7 +132,6 @@ body{
     height:30px;
     background:rgb(1, 1, 14);
     color:ivory;
-    font-family: arial;
 }
 #inpt:hover{
     transition:2s;

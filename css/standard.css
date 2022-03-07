@@ -16,7 +16,6 @@
     box-sizing: border-box;
 }
 .h_cha{
-    font-family: Arial, Helvetica, sans-serif;
     color:ivory;
     padding-top:200px;
     padding-left:20px;
@@ -39,13 +38,11 @@
     justify-content: space-around;
 }
 .divi1{
-    font-family: Arial, Helvetica, sans-serif;
     font-size:18px;
     color:rgb(1, 1, 14);
     text-decoration: underline;
 }
 .h2_tit{
-    font-family: Arial, Helvetica, sans-serif;
     font-size:23px;
     color:rgb(1, 1, 14);
 }
@@ -80,7 +77,6 @@
     text-decoration: none;
     color:rgb(1,1,14);
     font-size: 18px;
-    font-family: Arial, Helvetica, sans-serif;
     padding:20px;
 }
 .retour:hover{
@@ -88,17 +84,14 @@
     transition:1s;
 }
 .p_div03{
-    font-family: Arial, Helvetica, sans-serif;
     font-size:15px;
     text-align:justify;
     width:200px;
 }
 .p_div{
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
 }
 li{
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
 }
 /* ===============================================debut du footer==================================*/
@@ -109,7 +102,6 @@ li{
 }
 .adresse{
     font-size:14px;
-    font-family: Arial, Helvetica, sans-serif;
 }
 .lnk{
     margin:10px;
@@ -117,7 +109,6 @@ li{
 }
 .tle{
     font-size:18px;
-    font-family: Arial, Helvetica, sans-serif;
     color:rgb(1, 1, 14);
     letter-spacing: 10px;
 
@@ -131,7 +122,6 @@ li{
     height:30px;
     background:rgb(1, 1, 14);
     color:ivory;
-    font-family: arial;
 }
 #inpt:hover{
     transition:2s;

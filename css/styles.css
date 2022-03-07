@@ -23,8 +23,7 @@ body{
    background:rgb(1, 1, 14);
    color:white;
    text-align:center;
-   font-size:15px;
-   font-family:helvetica; 
+   font-size:15px; 
    line-height:50px;
    border-radius:3px;
    cursor:pointer;
@@ -138,7 +137,6 @@ p{
 }
 .adresse{
     font-size:14px;
-    font-family: Arial, Helvetica, sans-serif;
 }
 .lnk{
     margin:10px;
@@ -146,7 +144,6 @@ p{
 }
 .tle{
     font-size:18px;
-    font-family: Arial, Helvetica, sans-serif;
     color:rgb(1, 1, 14);
     letter-spacing: 10px;
 
@@ -160,7 +157,6 @@ p{
     height:30px;
     background:rgb(1, 1, 14);
     color:ivory;
-    font-family: arial;
 }
 #inpt:hover{
     transition:2s;

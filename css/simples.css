@@ -35,7 +35,6 @@ body{
     height:300px;
 } */
 .title{
-    font-family:calibri;
     font-size:30px;
     color:rgb(1,1,14);
     text-align:center;
@@ -84,17 +83,14 @@ body{
 }
 .ttle{
     text-align:center;
-    font-family:calibri;
     font-size:25px;
     color:rgb(1,1,14);
 }
 .para{
-    font-family:calibri;
     font-size:18px;
     text-align:justify;
 }
 .para2{
-    font-family:calibri;
     font-size:18px;
     text-align:justify;
     margin-top:100px;
@@ -107,17 +103,14 @@ body{
     border-radius:5px;
 }
 .ttle1{
-    font-family:calibri;
     font-size:25px;
     text-align:center;
     color:rgb(1,1,14);
 }
 .lii{
-    font-family:calibri;
     font-size:18px;
 }
 .li{
     list-style-type: none;
-    font-family:calibri;
     font-size:18px;
 }

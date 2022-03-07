@@ -20,7 +20,6 @@ body{
 .div_section3 h1{
     color:ivory;
     font-size:18px;
-    font-family:Arial, Helvetica, sans-serif;
     padding-left: 5px;
     padding-top: 230px;
 }
@@ -51,14 +50,12 @@ body{
 }
 .box11 h2{
     font-size:18px;
-    font-family: Arial, Helvetica, sans-serif;
     text-align:center;
     color:rgb(1,1,14);
 }
 .box11 p{
     text-align:justify;
     font-size:15px;
-    font-family: Arial, Helvetica, sans-serif;
     padding:5px;
 }
 .plan{
@@ -66,7 +63,6 @@ body{
     border:1px solid rgb(1,1,14);
     color:ivory;
     background:rgb(1,1,14);
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
     padding:3px;
     margin-left:10px;
@@ -84,14 +80,12 @@ body{
 }
 .box21 h2{
     font-size:18px;
-    font-family: Arial, Helvetica, sans-serif;
     text-align:center;
     color:rgb(1,1,14);
 }
 .box21 p{
     text-align:justify;
     font-size:15px;
-    font-family: Arial, Helvetica, sans-serif;
     padding:5px;
 }
 .demande{
@@ -99,7 +93,6 @@ body{
     border:1px solid rgb(1,1,14);
     color:ivory;
     background:rgb(1,1,14);
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
     padding:3px;
     margin-left:10px;
@@ -117,20 +110,17 @@ body{
 }
 .box3 h2{
     font-size:18px;
-    font-family: Arial, Helvetica, sans-serif;
     text-align:center;
     color: rgb(1,1,14);
 }
 .box3 p{
     text-align:justify;
     font-size:15px;
-    font-family: Arial, Helvetica, sans-serif;
     padding:5px;
 }
 .break{
     text-decoration: none;
     color:rgb(1,1,14);
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
     padding:3px;
     margin:10px;
@@ -147,7 +137,6 @@ body{
 }
 .adresse{
     font-size:14px;
-    font-family: Arial, Helvetica, sans-serif;
 }
 .lnk{
     margin:10px;
@@ -155,7 +144,6 @@ body{
 }
 .tle{
     font-size:18px;
-    font-family: Arial, Helvetica, sans-serif;
     color:rgb(1, 1, 14);
     letter-spacing: 10px;
 
