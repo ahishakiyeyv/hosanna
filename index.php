@@ -21,7 +21,7 @@
                <h2>Nos Contacts</h2>
                <label for="click" class="fas fa-times"></label>
            </div>
-           <label for="click" class="fas fa-check"></label>
+           <!-- <label for="click" class="fas fa-check"></label> -->
            <p> Contactez-nous au: 79 42 07 59 <br> 69 94 97 42 <br> Email: eddygrantbaru@gmail.com <br> pour toutes reservation</p>
            <div class="line"></div>
            <label for="click" class="close-btn">Close</label>
