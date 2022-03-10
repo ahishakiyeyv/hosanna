@@ -34,7 +34,7 @@ include("database.php");
                 <h2 class="ttle0">Restez Informé</h2>
                 <form  method="POST" class="formu">
                     <input type="email" name="email" placeholder="Votre email ici..." class="emaili"> <br><br>
-                    <textarea name="message" id="texta" cols="30" rows="10" placeholder="Votre message ici..."></textarea>
+                    <textarea name="message" id="texta" cols="40" rows="10" placeholder="Votre message ici..."></textarea>
                     <input type="submit" name="submit" value="Envoyer" class="subm"><i class="far fa-paper-plane"></i>
                 </form>
             </div>

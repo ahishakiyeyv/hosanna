@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 *{
     font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
 }
 body{
     background-image: url("../images/b.png");
@@ -46,9 +47,9 @@ body{
 .boxe{
     display:flex;
     justify-content:space-around;
+    align-items: center;
 }
 .box1{
-    box-sizing: border-box;
     width:200px;
     height:200px;
 }
@@ -57,7 +58,6 @@ body{
     height:inherit;
 }
 .box2{
-    box-sizing: border-box;
     width:400px;
     height:250px;
 }
@@ -76,7 +76,6 @@ body{
     font-size:15px;
 }
 .box3{
-    box-sizing: border-box;
     background:rgb(1,1,14);
     width:200px;
     height:200px;
