@@ -47,6 +47,7 @@ body{
     border:1px solid rgb(1,1,14);
     width:300px;
     height:500px;
+    overflow:auto;
 }
 .box11 h2{
     font-size:18px;
@@ -75,6 +76,7 @@ body{
 .box21{
     box-sizing: border-box;
     border:1px solid rgb(1,1,14);
+    overflow: auto;
     width:300px;
     height:500px;
 }
@@ -107,6 +109,7 @@ body{
     border: 1px solid rgb(1,1,14);
     width:300px;
     height:500px;
+    overflow: auto;
 }
 .box3 h2{
     font-size:18px;
