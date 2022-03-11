@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 *{
     font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
 }
 /*====================================debut de la premiere section================================*/
 
@@ -13,7 +14,6 @@
     width:200px;
     height:300px;
     background:rgb(1,1,14);
-    box-sizing: border-box;
 }
 .h_cha{
     color:ivory;
@@ -47,7 +47,6 @@
     color:rgb(1, 1, 14);
 }
 .img_slidee{
-    box-sizing: border-box;
     width:500px;
     height:400px;
     margin-left:150px;

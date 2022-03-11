@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 *{
     font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
 }
 body{
     background:linear-gradient(90deg,rgb(184, 178, 178),ivory);
@@ -43,7 +44,6 @@ body{
 }
 /*==============================================debut de la deuxieme section===================*/
 .img_slidee{
-    box-sizing: border-box;
     width:800px;
     height:400px;
     margin-left:300px;
