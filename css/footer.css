@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 *{
     font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
 }
 footer{
     background:rgb(30, 30, 32);
@@ -34,12 +35,10 @@ footer{
     transition:0.5s;
 }
 .f-boxes{
-    box-sizing: border-box;
     width:300px;
 }
 
 .s-boxes{
-    box-sizing: border-box;
     width:300px;
 }
 .q-links{
